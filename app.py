@@ -95,7 +95,7 @@ def send_sms(message, to_phone_number):
         st.error(f"Failed to send emergency message: {str(e)}")
 
 # Streamlit app
-st.title("Women Safety Score Predictor for New Delhi")
+st.title("VIGIL-AI")
 
 # Create tabs
 tab1, tab2, tab3, tab4 = st.tabs(["Select District", "Search Address", "Choose on Map", "SOS Call"])
