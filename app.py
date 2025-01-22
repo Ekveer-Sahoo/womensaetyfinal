@@ -12,7 +12,7 @@ import geocoder
 
 # Twilio credentials (replace with your actual credentials)
 TWILIO_ACCOUNT_SID = 'ACa851305b330f02071ebd953a0c26319b'
-TWILIO_AUTH_TOKEN = 'f7513d7cf062fc823187fd567c8f24ef'
+TWILIO_AUTH_TOKEN = '0ce15705637e0be037524175fadbbcab'
 TWILIO_PHONE_NUMBER = '+14065014871'
 
 # Load the trained model
